@@ -5,7 +5,7 @@
 
 
 <a href="https://velog.io/@i-am-jiwon/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=ReadMe&logoColor=white"/></a>
+<a href="https://iamjiwon.simple.ink/" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=ReadMe&logoColor=white"/></a>
 
 
 </br>
