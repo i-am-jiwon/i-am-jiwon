@@ -5,8 +5,7 @@
 
 
 <a href="https://velog.io/@i-am-jiwon/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="https://iamjiwon.simple.ink/" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=ReadMe&logoColor=white"/></a>
-
+<a href="https://jiwonjiwon.notion.site/b65f8bed1a61429cab70d3439cdf07ce" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=ReadMe&logoColor=white"/></a>
 
 </br>
 💭 백엔드 개발자를 꿈꾸고 있는 학생입니다!
